@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: Network
-platforms: java
-author: yaohaizh
+extensions:
+- services: Network
+- platforms: java
 ---
 
-## Getting Started with Network - Manage Virtual Network Async - in Java ##
+# Getting Started with Network - Manage Virtual Network Async - in Java #
 
 
   Azure Network sample for managing virtual networks.
