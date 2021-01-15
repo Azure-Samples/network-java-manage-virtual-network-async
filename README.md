@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-  services: Network
-  platforms: java
+- services: Network
+- platforms: java
 ---
 
 # Getting Started with Network - Manage Virtual Network Async - in Java #
